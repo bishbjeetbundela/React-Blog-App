@@ -1,0 +1,17 @@
+.header {
+  width: 100%;
+}
+.header h1 {
+  font-size: 60px;
+}
+.header h2 {
+  transform: rotate(-90deg);
+  padding: 9px;
+  margin-top: 26px;
+}
+.header .sub-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 12px;
+}

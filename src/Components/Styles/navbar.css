@@ -1,0 +1,25 @@
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+.navbar li a:hover{
+  border-bottom: 1px solid black;
+  padding: 14px 0px;
+}
+li {
+  list-style: none;
+  padding: 0px 57px;
+}
+.navbar {
+  border-bottom: 2px solid rgb(229 220 220);
+  margin: auto;
+  margin-top: -35px;
+}
+.navbar ul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 94%;
+}
+
